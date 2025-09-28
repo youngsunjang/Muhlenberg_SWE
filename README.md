@@ -1,1 +1,1 @@
-# Muhlenberg_2024Fall
+# Muhlenberg_SWE_Class
